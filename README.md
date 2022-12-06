@@ -1,3 +1,3 @@
-# Break_out
+# Breakout
 
 My MIPS Assembly Project, the popular game Breakout.
